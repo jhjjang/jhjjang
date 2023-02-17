@@ -28,4 +28,10 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Activity Graph:
 
-[![lasen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhjjang&theme=github-compact)](https://github.com/xkas01/github-readme-activity-graph)
+[![Lasen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhjjang&theme=github-compact)](https://github.com/xkas01/github-readme-activity-graph)
+
+![Lasen's github stats](https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&theme=radical&include_all_commits=true)
+![Lasen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhjjang&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang"></img>
+
