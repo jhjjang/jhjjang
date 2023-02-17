@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📈 GitHub Activity Graph:
+
+[![lasen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhjjang&theme=github-compact)](https://github.com/xkas01/github-readme-activity-graph)
