@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ||||
 |---|---|---|
-|![Lasen's github stats](https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&theme=radical&include_all_commits=true)|![Lasen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhjjang&theme=radical&layout=compact)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang" width="400px"></img>|
+|![Lasen's github stats](https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&theme=radical&include_all_commits=true)|![Lasen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhjjang&theme=radical&layout=compact)|<img src ="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang&theme=merko&hide_border=true&background=FFFFFF00">|
 
 
 
@@ -37,4 +37,12 @@ Here are some ideas to get you started:
 [![Lasen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhjjang&theme=github-compact)](https://github.com/xkas01/github-readme-activity-graph)
 
 
+<!--
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jhjjang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang&theme=merko&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang" width="400px"></img>
+</p>
+-->
 
