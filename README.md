@@ -31,12 +31,6 @@ Here are some ideas to get you started:
 
 
 
-
-### 📈 GitHub Activity Graph:
-
-[![Lasen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhjjang&theme=github-compact)](https://github.com/xkas01/github-readme-activity-graph)
-
-
 <!--
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
