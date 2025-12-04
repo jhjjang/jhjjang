@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ||||
 |---|---|---|
-|![Lasen's github stats](https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&theme=radical&include_all_commits=true)|![Lasen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhjjang&theme=radical&layout=compact)|<img src ="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang&theme=merko&hide_border=true&background=FFFFFF00">|
+|![Remy's github stats](https://github-readme-stats.vercel.app/api?username=jhjjang&show_icons=true&theme=radical&include_all_commits=true)|![Remy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhjjang&theme=radical&layout=compact)|<img src ="https://github-readme-streak-stats.herokuapp.com/?user=jhjjang&theme=merko&hide_border=true&background=FFFFFF00">|
 
 
 
